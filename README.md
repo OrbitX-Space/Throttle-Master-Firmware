@@ -32,3 +32,5 @@ Based on the firmware:
 3. `A0`, `A1`, `A2` are *analog inputs* that represent **RotX**, **RotY**, **RotZ** (in joystick prop.) & can used for floor pedals.
 
 4. `2`, `3`, `10`, `14`, `16` are GPIO.
+***
+**Author: Abhiram**
