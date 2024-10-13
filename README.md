@@ -24,6 +24,7 @@ Based on the firmware:
    `7` -> **GEAR_4** (JoyBtn: 5)<br>
    `8` -> **GEAR_5** (JoyBtn: 6)<br>
    `9` -> **GEAR_R** (JoyBtn: 7)<br>
+   <br>
    Note: There is also a virtual joystick button meant for **GEAR_N** (JoyBtn: 1), map it to "NEUTRAL" in your game. When none of the above 6 buttons are active, **GEAR_N** automatically becomes active.
 
 3. `A0`, `A1`, `A2` represent **RotX**, **RotY**, **RotZ** (in joystick prop.) & can used for floor pedals.
