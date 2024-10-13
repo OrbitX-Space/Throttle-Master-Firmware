@@ -29,6 +29,6 @@ Based on the firmware:
    <br>
    Note: There is also a virtual joystick button meant for **GEAR_N** (JoyBtn: 1), map it to "NEUTRAL" in your game. When none of the above 6 buttons are active, **GEAR_N** automatically becomes active.
 
-3. `A0`, `A1`, `A2` represent **RotX**, **RotY**, **RotZ** (in joystick prop.) & can used for floor pedals.
+3. `A0`, `A1`, `A2` are *analog inputs* that represent **RotX**, **RotY**, **RotZ** (in joystick prop.) & can used for floor pedals.
 
 4. `2`, `3`, `10`, `14`, `16` are GPIO.
