@@ -17,7 +17,8 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
 
 Based on the firmware:
 1. `TX` -> **Phase A**<br>
-   `RX` -> **Phase B**
+   `RX` -> **Phase B**<br>
+   (JoyAxis: X-Axis)
 
 2. `4` -> **GEAR_1** (JoyBtn: 2)<br>
    `5` -> **GEAR_2** (JoyBtn: 3)<br>
