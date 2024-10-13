@@ -12,5 +12,7 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
 2. Revert back everything & use arduino bootloader:<br>
      `make it_arduino`
 
-## Useful Schematics & Routing:
-![Example_Schematic&Routing](./images/throttle_master_circuit.png)
+## Schematics info:
+![Example_Schematic&Routing](./images/schematic.png)
+
+1.
