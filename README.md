@@ -7,5 +7,5 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
 
 
 ## Makefile commands
-1. Flash the firmware into your chip:
+1. Flash the firmware into your chip:<br>
      `make flash_firmware`
