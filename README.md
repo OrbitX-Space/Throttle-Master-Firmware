@@ -6,5 +6,6 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-Passing-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=2aae48'/></a>
 
 
-## Makefile
-1. 
+## Makefile commands
+1. Flash the firmware into your chip:
+     `make flash_firmware`
