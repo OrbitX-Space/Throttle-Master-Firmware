@@ -16,7 +16,8 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
 ![Example_Schematic&Routing](./images/schematic_scaled_down.png)
 
 Based on the firmware:
-1. `TX` -> **Phase A** & `RX` -> **Phase B**
+1. `TX` -> **Phase A**<br>
+   `RX` -> **Phase B**
 
 2. `4` -> **GEAR_1** (JoyBtn: 2)<br>
    `5` -> **GEAR_2** (JoyBtn: 3)<br>
