@@ -6,11 +6,11 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-Passing-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=2aae48'/></a>
 
 
-## Makefile commands
+## Makefile
 1. Flash the firmware into your chip:<br>
      `make flash_firmware`
 2. Revert back everything & use arduino bootloader:<br>
      `make it_arduino`
 
 ## Useful Schematics & Routing:
-![Example_Schematic&Routing](./images/circuit.png)
+![Example_Schematic&Routing](./images/throttle_master_circuit.png)
