@@ -13,6 +13,19 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
      `make it_arduino`
 
 ## Schematics info:
-![Example_Schematic&Routing](./images/schematic.png)
+![Example_Schematic&Routing](./images/schematic_scaled_down.png)
 
-1.
+Based on the firmware:
+1. `TX` -> **Phase A** & `RX` -> **Phase B**
+
+2. `4` -> **GEAR_1** (JoyBtn: 2)
+   `5` -> **GEAR_2** (JoyBtn: 3)
+   `6` -> **GEAR_3** (JoyBtn: 4)
+   `7` -> **GEAR_4** (JoyBtn: 5)
+   `8` -> **GEAR_5** (JoyBtn: 6)
+   `9` -> **GEAR_R** (JoyBtn: 7)
+   Note: There is also a virtual joystick button meant for **GEAR_N** (JoyBtn: 1), map it to "NEUTRAL" in your game. When none of the above 6 buttons are active, **GEAR_N** automatically becomes active.
+
+3. `A0`, `A1`, `A2` represent **RotX**, **RotY**, **RotZ** (in joystick prop.) & can used for floor pedals.
+
+4. `2`, `3`, `10`, `14`, `16` are GPIO.
