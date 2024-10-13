@@ -9,3 +9,8 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
 ## Makefile commands
 1. Flash the firmware into your chip:<br>
      `make flash_firmware`
+2. Revert back everything & use arduino bootloader:<br>
+     `make it_arduino`
+
+## Useful Schematics & Routing:
+![Example_Schematic&Routing](./images/circuit.png)
