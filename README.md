@@ -11,9 +11,10 @@ This **firmware** is your pit crew for **DIY** racing sim rigs, built exclusivel
      `make flash_firmware`
 2. Revert back everything & use arduino bootloader:<br>
      `make it_arduino`
-
+<!-
 ## Useful Schematics:
 ![Example_Schematic&Routing](./images/schematic_scaled_down.png)
+-->
 
 Based on the firmware:
 1. `TX` -> **Phase A**<br>
