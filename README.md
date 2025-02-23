@@ -34,4 +34,4 @@ Based on the firmware:
 
 4. `2`, `3`, `10`, `14`, `16` are GPIO.
 ***
-**Author: Abhiram**
+Author: Raptor Dynamics (subs. of GoogolEnergy)
